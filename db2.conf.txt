@@ -1,0 +1,6 @@
+$host="10.1.0.42";
+$port="3306";
+$database="";
+$username="";
+$password="";
+
